@@ -1,0 +1,1 @@
+O README.md é como se fosse um comentário do seu codigo, serve para fazer uma explicação ou observação sobre ele 
